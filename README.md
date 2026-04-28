@@ -19,9 +19,9 @@
 
 ## 🚀 Featured Projects
 
-🏏 **[IPL Match Outcome Prediction](https://github.com/sakshinair27/UAI-final-project)** — ML models with 75% accuracy and R² of 0.92.
+🏏 **[IPL Match Outcome Prediction](https://github.com/sakshinair27/IPL-Match-Outcome-Prediction)** — ML models with 75% accuracy and R² of 0.92.
 
-🛡️ **[SYN Flood Attack Detection](https://github.com/sakshinair27/sns_finalproject)** — Lightweight intrusion detection system using TCP handshake analysis.
+🛡️ **[SYN Flood Attack Detection](https://github.com/sakshinair27/SYN-Flood-Attack-Detection)** — Lightweight intrusion detection system using TCP handshake analysis.
 
 🚌 **Bloomington Transit Ridership Analysis** *(coming soon)* — 7+ years of transit data analysis revealing 29% post-pandemic ridership shift.
 
