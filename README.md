@@ -27,6 +27,7 @@
 
 🚌 **Bloomington Transit Ridership Analysis** *(coming soon)* — 7+ years of transit data analysis revealing 29% post-pandemic ridership shift.
 
+🍕 **[Food Delivery EDA & Regression](https://github.com/sakshinair27/Food-Delivery-EDA-Regression)** — Statistical analysis in R with 78% R² regression model and robust regression for outlier handling.
 ---
 
 ## 📫 Let's Connect
