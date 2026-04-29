@@ -25,9 +25,10 @@
 
 🛡️ **[SYN Flood Attack Detection](https://github.com/sakshinair27/SYN-Flood-Attack-Detection)** — Lightweight intrusion detection system using TCP handshake analysis.
 
+🍕 **[Food Delivery EDA & Regression](https://github.com/sakshinair27/Food-Delivery-EDA-Regression)** — Statistical analysis in R with 78% R² regression model and robust regression for outlier handling.
+
 🚌 **Bloomington Transit Ridership Analysis** *(coming soon)* — 7+ years of transit data analysis revealing 29% post-pandemic ridership shift.
 
-🍕 **[Food Delivery EDA & Regression](https://github.com/sakshinair27/Food-Delivery-EDA-Regression)** — Statistical analysis in R with 78% R² regression model and robust regression for outlier handling.
 ---
 
 ## 📫 Let's Connect
