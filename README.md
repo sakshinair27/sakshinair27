@@ -27,6 +27,8 @@
 
 🍕 **[Food Delivery EDA & Regression](https://github.com/sakshinair27/Food-Delivery-EDA-Regression)** — Statistical analysis in R with 78% R² regression model and robust regression for outlier handling.
 
+🛒 **[CommerceLens](https://github.com/sakshinair27/Commerce-Lens)** — PostgreSQL e-commerce data warehouse with parallel SQL/dbt ETL pipelines; query optimization case study cut lookup time from 2.16ms to 0.31ms.
+
 ---
 
 ## 📫 Let's Connect
