@@ -29,6 +29,8 @@
 
 🛒 **[CommerceLens](https://github.com/sakshinair27/Commerce-Lens)** — PostgreSQL e-commerce data warehouse with parallel SQL/dbt ETL pipelines; query optimization case study cut lookup time from 2.16ms to 0.31ms.
 
+📈 [Northwind Retail Analytics](https://github.com/sakshinair27/Northwind-retail-analytics) — Star-schema retail data warehouse rebuilt across Power BI, Looker, and Tableau (DAX, LookML, calculated fields).
+
 ---
 
 ## 📫 Let's Connect
