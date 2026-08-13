@@ -21,7 +21,7 @@
 
 📊 **[Employee Tracker & HR Analytics Dashboard](https://github.com/sakshinair27/Employee-Tracker-Analytics-Dashboard)** — Full-stack HR analytics system with Flask, PostgreSQL, and 6 dynamic dashboards.
 
-🏏 **[IPL Match Outcome Prediction](https://github.com/sakshinair27/IPL-Match-Outcome-Prediction)** — ML models with 75% accuracy and R² of 0.92.
+🏏 **[IPL Match Outcome Prediction](https://github.com/sakshinair27/-IPL-Match-Outcome-Prediction)** — ML models with 75% accuracy and R² of 0.92.
 
 🛡️ **[SYN Flood Attack Detection](https://github.com/sakshinair27/SYN-Flood-Attack-Detection)** — Lightweight intrusion detection system using TCP handshake analysis.
 
