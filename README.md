@@ -29,6 +29,8 @@
 
 🛒 **[CommerceLens](https://github.com/sakshinair27/Commerce-Lens)** — PostgreSQL e-commerce data warehouse with parallel SQL/dbt ETL pipelines; query optimization case study cut lookup time from 2.16ms to 0.31ms.
 
+🤖 MarketPulse AI — Multi-agent LangGraph pipeline that autonomously researches competitors, cross-verifies claims across 2+ sources, and gates delivery behind Slack human approval; runs on a GitHub Actions schedule at ~$0.005/run.
+
 📈 [Northwind Retail Analytics](https://github.com/sakshinair27/Northwind-retail-analytics) — Star-schema retail data warehouse rebuilt across Power BI, Looker, and Tableau (DAX, LookML, calculated fields).
 
 ---
