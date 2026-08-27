@@ -83,7 +83,7 @@ Star-schema retail data warehouse rebuilt identically across Power BI, Looker, a
 </td>
 <td width="50%" valign="top">
 
-**📊 Employee Tracker & HR Analytics Dashboard**
+**📊 [Employee Tracker & HR Analytics Dashboard](https://github.com/sakshinair27/Employee-Tracker-Analytics-Dashboard)**
 Full-stack HR analytics system with 6 dynamic dashboards for workforce insights.
 `Flask` `PostgreSQL` `JavaScript`
 
@@ -92,7 +92,7 @@ Full-stack HR analytics system with 6 dynamic dashboards for workforce insights.
 <tr>
 <td width="50%" valign="top">
 
-**🏏 IPL Match Outcome Prediction**
+**🏏 [IPL Match Outcome Prediction](https://github.com/sakshinair27/-IPL-Match-Outcome-Prediction)**
 ML models predicting match outcomes and scores.
 `Python` `Scikit-learn`
 📊 75% classification accuracy · R² of 0.92
@@ -100,7 +100,7 @@ ML models predicting match outcomes and scores.
 </td>
 <td width="50%" valign="top">
 
-**🛡️ SYN Flood Attack Detection**
+**🛡️ [SYN Flood Attack Detection](https://github.com/sakshinair27/-SYN-Flood-Attack-Detection)**
 Lightweight intrusion detection system using TCP handshake analysis.
 `Python` `Networking`
 
@@ -109,7 +109,7 @@ Lightweight intrusion detection system using TCP handshake analysis.
 <tr>
 <td width="50%" valign="top">
 
-**🍕 Food Delivery EDA & Regression**
+**🍕 [Food Delivery EDA & Regression](https://github.com/sakshinair27/Food-Delivery-EDA-Regression)**
 Statistical analysis in R with robust regression for outlier handling.
 `R` `Regression Analysis`
 📊 78% R² regression model
