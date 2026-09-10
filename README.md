@@ -75,6 +75,16 @@ PostgreSQL e-commerce data warehouse with parallel hand-written SQL and dbt ETL 
 <tr>
 <td width="50%" valign="top">
 
+**⚙️ [Churn Prediction MLOps Platform](https://github.com/sakshinair27/churn-prediction-mlops-platform)**
+Production-grade MLOps system for customer churn prediction — MLflow experiment tracking, FastAPI serving, Kubernetes autoscaling, and automated drift detection.
+`Python` `scikit-learn` `FastAPI` `Docker` `Kubernetes` `MLflow`
+📊 Best model: F1=0.623, recall-optimized to catch 79% of at-risk customers
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **📈 [Northwind Retail Analytics](https://github.com/sakshinair27/Northwind-retail-analytics)**
 Star-schema retail data warehouse rebuilt identically across Power BI, Looker, and Tableau with 15+ tool-specific measures.
 `SQL` `Power BI` `Looker` `Tableau`
